@@ -1,3 +1,3 @@
 ## Behavioral Patterns
 
-Take care of effective communication and the assignment of responsibilitis between objects.
+These patterns explain how to assemble objects and classes into larger structures while keeping these structures flexible and efficient.
